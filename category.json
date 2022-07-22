@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "category":"Phones"
+    },
+    {
+        "id":2,
+        "category":"Fashion"
+    },
+    {
+        "id":3,
+        "category":"Electronics"
+    },
+    {
+        "id":4,
+        "category":"Beauty"
+    },
+    {
+        "id":5,
+        "category":"Grocery"
+    },
+    {
+        "id":6,
+        "category":"Travel"
+    }
+]
